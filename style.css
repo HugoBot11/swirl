@@ -13,3 +13,7 @@ body {
 p {
     font-weight: 400;
 }
+
+footer {
+    background-color: lightseagreen;
+}
