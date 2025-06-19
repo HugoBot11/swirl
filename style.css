@@ -1,11 +1,11 @@
 * {
     color: navy;
-    background-color: lightskyblue;
     font-family: Calibri;
 }
 
 body {
     font-weight:800;
+    background-color: lightskyblue;
     font-size: 16px;
     font-style: normal;
 }
