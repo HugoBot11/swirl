@@ -14,6 +14,6 @@ p {
     font-weight: 400;
 }
 
-footer {
+footer, header {
     background-color: lightseagreen;
 }
