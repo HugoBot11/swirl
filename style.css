@@ -17,3 +17,11 @@ p {
 footer, header {
     background-color: lightseagreen;
 }
+
+.link:hover {
+    background-color: darkcyan
+}
+
+.button:hover {
+    background-color: darkcyan
+}
